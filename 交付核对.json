@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-06",
+  "scope": "本项目新增材料及自造答案的静态核对；不是AI实测、成片或用户验收",
+  "owner": "本会话",
+  "rules": "ROUTING-2026-09-30-v3",
+  "actual_model_effort": "UNKNOWN",
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/README.md",
+      "bytes": 1027
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/01_定位建议与关键阻碍.md",
+      "bytes": 4782
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/02_8个候选与3个核心.md",
+      "bytes": 5418
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/03_视频拆解与证据边界.md",
+      "bytes": 16313
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/04_10个候选选题.md",
+      "bytes": 4725
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/05_复盘与验收.md",
+      "bytes": 3479
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/README.md",
+      "bytes": 4764
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/制作包/01_把模糊需求改成可检查要求.md",
+      "bytes": 6949
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/制作包/02_两张表合并与异常检查.md",
+      "bytes": 6525
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/制作包/03_零散信息提取待办.md",
+      "bytes": 6638
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/证据/7683783312204651193-阅读文本.txt",
+      "bytes": 16440
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/证据/7685584742113626233-阅读文本.txt",
+      "bytes": 21846
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/证据/7688277340350812602-阅读文本.txt",
+      "bytes": 29243
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/证据/7688386457292295025-阅读文本.txt",
+      "bytes": 13045
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/证据/7689404400762511866-阅读文本.txt",
+      "bytes": 7070
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/证据/OCR覆盖核对.json",
+      "bytes": 2016
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/证据/来源与访问记录.md",
+      "bytes": 7270
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/首轮研究-20261006/证据/沛总-5条页面历史快照.json",
+      "bytes": 5303
+    }
+  ],
+  "artifact_bytes_excluding_this_receipt": 162853,
+  "checks": {
+    "all_local_links_exist": true,
+    "old_wrong_totals_removed": true,
+    "correct_totals_present": true,
+    "all_3_packs_have_required_sections": true,
+    "ocr_all_timepoints_present": true
+  },
+  "missing_local_links": [],
+  "fixture_answers": {
+    "original": {
+      "valid_rows": 8,
+      "exception_rows": 4,
+      "line_totals": {
+        "1": 20,
+        "2": 20,
+        "3": 15,
+        "4": 24,
+        "9": 40,
+        "10": 20,
+        "11": 12,
+        "12": 16
+      },
+      "total": 167
+    },
+    "variant": {
+      "valid_rows": 7,
+      "exception_rows": 5,
+      "total": 151
+    }
+  },
+  "correction": "制作包02草稿总额187/171经独立静态计算修正167/151",
+  "core_sample_status": {
+    "AI超能力老马": {
+      "initial": 1,
+      "content_complete": 0,
+      "quota_pass": false
+    },
+    "无鸣": {
+      "initial": 1,
+      "content_complete": 0,
+      "quota_pass": false
+    },
+    "沛总AI解决方案": {
+      "high": 3,
+      "ordinary": 2,
+      "content_complete": 5,
+      "scope": "历史全时段OCR",
+      "quota_pass": true
+    }
+  },
+  "douyin_entries": 10,
+  "content_analyses": 7,
+  "initial_only": 3,
+  "production_packs": 3,
+  "questionnaire": "awaiting_user",
+  "ai_tested": false,
+  "published": false,
+  "research_complete": false,
+  "new_media_downloads": 0,
+  "temporary_cleanup": "none; new evidence retained for continuation",
+  "version_check": "GitHub API rate limited; latest UNKNOWN; no retry by owner"
+}

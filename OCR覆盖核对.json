@@ -1,0 +1,52 @@
+[
+  {
+    "id": "7683783312204651193",
+    "source_ocr": "/Users/USER/Documents/原点向量/FDE自媒体研究/沛总AI解决方案-20261006/7683783312204651193-字幕复核.json",
+    "frame_count": 574,
+    "row_count": 574,
+    "times_complete": true,
+    "original_current_exists": false,
+    "original_source_path": "/Users/USER/Downloads/download (5).mp4",
+    "audio_transcript": "UNKNOWN"
+  },
+  {
+    "id": "7689404400762511866",
+    "source_ocr": "/Users/USER/Documents/原点向量/FDE自媒体研究/沛总AI解决方案-20261006/7689404400762511866-字幕复核.json",
+    "frame_count": 293,
+    "row_count": 293,
+    "times_complete": true,
+    "original_current_exists": false,
+    "original_source_path": "/Users/USER/Downloads/download (36).mp4",
+    "audio_transcript": "UNKNOWN"
+  },
+  {
+    "id": "7685584742113626233",
+    "source_ocr": "/Users/USER/Documents/原点向量/FDE自媒体研究/沛总AI解决方案-20261006/7685584742113626233-字幕复核.json",
+    "frame_count": 390,
+    "row_count": 390,
+    "times_complete": true,
+    "original_current_exists": false,
+    "original_source_path": "/Users/USER/Downloads/download (40).mp4",
+    "audio_transcript": "UNKNOWN"
+  },
+  {
+    "id": "7688386457292295025",
+    "source_ocr": "/Users/USER/Documents/原点向量/FDE自媒体研究/沛总AI解决方案-20261006/7688386457292295025-字幕复核.json",
+    "frame_count": 42,
+    "row_count": 42,
+    "times_complete": true,
+    "original_current_exists": false,
+    "original_source_path": "/Users/USER/Downloads/download (2).mp4",
+    "audio_transcript": "UNKNOWN"
+  },
+  {
+    "id": "7688277340350812602",
+    "source_ocr": "/Users/USER/Documents/原点向量/FDE自媒体研究/沛总AI解决方案-20261006/7688277340350812602-字幕复核.json",
+    "frame_count": 96,
+    "row_count": 96,
+    "times_complete": true,
+    "original_current_exists": false,
+    "original_source_path": "/Users/USER/Downloads/download (37).mp4",
+    "audio_transcript": "UNKNOWN"
+  }
+]
